@@ -85,7 +85,7 @@
     #
     # [pt_BR]
     # Valor padrão: 0.9
-    green_bar: 0.9
+    green_bar: 0.85
 
   home:
     enable: False
